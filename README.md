@@ -18,7 +18,7 @@ O projeto **Notícia Cidade** foi desenvolvido com fins educacionais, servindo c
 - Está em constante melhoria conforme avanço nos estudos.
 
 ## 📷 Preview
-
+![Imagem de capa](noticia-cidade.png)
 
 
 ## 📄 Licença
